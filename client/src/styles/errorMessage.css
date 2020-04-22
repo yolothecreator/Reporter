@@ -1,0 +1,15 @@
+.error-message {
+    display: block;
+    background-color: #fac0c0;
+    color: #8B0000;
+    padding: 3px;
+    border: 1px solid #8B0000;
+}
+
+.message {
+    display: block;
+    background-color: darkseagreen;
+    color: green;
+    padding: 3px;
+    border: 1px solid green;
+}

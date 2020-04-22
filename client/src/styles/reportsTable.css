@@ -1,0 +1,10 @@
+.myReportsTable {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    border: 1px solid black;
+}
+
+.myReportsTable tr td div {
+    white-space: pre;
+
+}

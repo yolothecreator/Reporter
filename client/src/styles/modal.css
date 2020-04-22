@@ -1,0 +1,32 @@
+.modal {
+    text-align: center;
+}
+
+.modal-footer {
+    display: flex;
+    justify-content: center
+}
+
+.modal-footer button {
+    width: 50px;
+}
+
+@media screen and (min-width: 768px) {
+    .modal:before {
+        display: inline-block;
+        vertical-align: middle;
+        content: " ";
+        height: 100%;
+    }
+}
+
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.modal-body {
+    text-align: center;
+    white-space: pre-wrap;
+}
